@@ -1,3 +1,7 @@
+> 🗄️ **本仓库已于 2026-10 归档（只读）**：这是 2026-04 的过时镜像（v2.0.1）。
+> `@yyc3/i18n-core` 的唯一发布源是 [YYC-Cube/YYC3-i18n-Core](https://github.com/YYC-Cube/YYC3-i18n-Core)（npm `latest: 2.4.3+`）。
+> 请勿在此提交；如需 i18n 能力请依赖 npm 包。
+
 <p align="center">
   <h1 align="center">@yyc3/i18n-core</h1>
   <p align="center">
